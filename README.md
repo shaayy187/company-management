@@ -27,4 +27,12 @@ Program in c++ with GUI made in QT using to manage employee in company. You can 
 
 ![image](https://github.com/shaayy187/company-management/assets/146937483/629ef490-e341-4660-a1f5-6159722ee862)
 
+# **Adding and buying demands**
+
+![image](https://github.com/shaayy187/company-management/assets/146937483/bdadd654-7647-463c-b8cc-9078c8c39718)
+
+
+# **Leasings**
+
+![image](https://github.com/shaayy187/company-management/assets/146937483/2b647b22-a728-4ebd-8e3d-2fd0b20d579c)
 
