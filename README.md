@@ -14,7 +14,6 @@ Features:
 - 4 stages : Financial, Accountancy, Management, Worker
 - dark/light mode connected with program calling parameters
 
-GUI:
 
 Workers panel:
 
