@@ -1,9 +1,9 @@
-# company-management
+# **company-management**
 employee management program
 
 Program in c++ with GUI made in QT using to manage employee in company. You can easily open it with .exe file or in QT/Visual Studio IDE.
 
-Features:
+# **Features:**
 - adding and removing employee
 - editing data
 - searching
@@ -15,9 +15,11 @@ Features:
 - dark/light mode connected with program calling parameters
 
 
-Workers panel:
+# **Workers panel**
 
 ![image](https://github.com/shaayy187/company-management/assets/146937483/717f4b10-679d-49b0-8312-038e820f9eaf)
+
+# **Info panel**
 
 ![image](https://github.com/shaayy187/company-management/assets/146937483/18267f98-7032-43f5-b0df-5d1a1ea5bfeb)
 
