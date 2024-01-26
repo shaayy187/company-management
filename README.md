@@ -1,4 +1,4 @@
- <p align="center"> # **company-management** </p>
+ # **company-management** 
 employee management program
 
 Program in c++ with GUI made in QT using to manage employee in company. You can easily open it with .exe file or in QT/Visual Studio IDE.
