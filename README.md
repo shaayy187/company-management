@@ -16,6 +16,8 @@ Features:
 
 GUI:
 
+Workers panel:
+
 ![image](https://github.com/shaayy187/company-management/assets/146937483/717f4b10-679d-49b0-8312-038e820f9eaf)
 
 ![image](https://github.com/shaayy187/company-management/assets/146937483/18267f98-7032-43f5-b0df-5d1a1ea5bfeb)
